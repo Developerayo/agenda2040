@@ -32,8 +32,7 @@ adulthood and industry readiness.
 
 ## Contributors
 * Shodipo Ayomide
-* Adenekan Wonderful (Main Contributor)
-
+* Adenekan Wonderful
 # NEVER COMMIT TO MASTER, CREATE YOUR BRANCH!!
 
 
