@@ -1,0 +1,336 @@
+/*things for the head*/
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:100,400,500,700');
+/*@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700');*/
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;	
+transition: all .3s ease;
+font-family: 'Work Sans', sans-serif;
+}
+html{
+    transition: all .3s ease;
+}
+body{
+	padding-right: 0px !important;
+    transition: all .3s ease;
+    background-color: #Fff!important;
+   font-family: 'Work Sans', sans-serif !important;
+}
+
+a,h1,h2,h3,h4,h5,h6,p,button,input[type="text"],input[type="date"],input[type="password"],input[type="value"],b,label,td,select,textarea,th{
+	font-family: 'Work Sans', sans-serif !important;
+    transition: all .3s ease;
+}
+.brents {
+    background: linear-gradient(90deg , #000000bd , #000000bd),url(../img/gallery-4.jpg);
+    height: 591px;
+    background-attachment: fixed;
+    width: 100%;
+    background-position: left;
+    background-size: cover;
+    background-position-y: -67px;
+}
+footer{
+    background: linear-gradient(90deg , #000000bd , #000000bd),url(../img/2-3.jpg);
+    height: 291px;
+    background-attachment: fixed;
+    width: 100%;
+    background-position: left;
+    background-size: cover;
+    background-position-y: -67px;
+}
+.thirdsection h4 {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.6em;
+}
+
+.thirdsection {
+    background: linear-gradient(90deg , #000000bf ,#000000bf) , url(../img/Unknown-5.jpeg);
+    height: 280px;
+    width: 100%;
+    margin-top: 12%;
+    background-position: left;
+    text-align: center;
+    color: #fff;
+    padding: 83px;
+    background-attachment: fixed;
+}
+.navbar-inverse {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+.navbar li > a {
+    color: #fff !important;
+}
+
+.welcometool p:nth-of-type(3) {
+    margin-top: 11%;
+}
+.welcometool i {
+    font-size: 31px;
+}
+
+.welcometool {
+    text-align: center;
+    color: #fff !important;
+    margin-top: 11%;
+}
+/*.welcometool button {
+    padding: 9px 39px;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+}*/
+#fitvid0{
+    width:100% !important;
+    /*height: 500px;*/
+}
+.welcometool button:nth-of-type(2) {
+    border: 1px solid transparent;
+    background: #f47207 !important;
+}
+
+.welcometool button {
+    padding: 9px 38px;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.firstpart iframe {
+    height: 298px !important;
+}
+
+.firstpart p {
+    font-size: 13px;
+    line-height: 1.7em;
+    text-align: justify;
+}
+
+.firstpart h3 {
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.firstpart {
+    margin-top: 9%;
+}
+.welcometool button:nth-of-type(1) {
+    background: transparent;
+    border: 1px solid #f47207 !important;
+}
+
+.welcometool p {
+    font-size: 13px;
+    margin-bottom: 23px;
+}
+.chana:before {
+    content: '';
+    font-family: 'Work Sans', sans-serif !important;
+    color: #f47207 !important;
+    font-weight: 500 !important;
+    font-style: normal;
+    animation-name: redif;
+    animation-direction: alternate-reverse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+.fourth_section p {
+    font-size: 13px;
+    line-height: 1.6em;
+}
+
+.fourth_section h4 {
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.fourth_section {
+    margin-top: 11%;
+}
+@keyframes redif{
+    0%{
+        content: 'A TECHNOLOGICAL';
+        /*color: red;*/
+    }
+    25%{
+        content: 'THE BEST';
+        /*color: red;*/
+      
+    }
+    50%{
+        content: 'AN IMPROVED';
+        /*color: green;*/
+        
+    }
+    100%{
+        content: ' ';
+    }
+
+}
+
+.welcometool h1 {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+.welcometool a {
+    color: #fff;
+}
+.welcometool {
+    text-align: center;
+    color: #fff !important;
+    margin-top: 11%;
+}
+.second_part.container p {
+    font-size: 13px;
+}
+
+.second_part.container h4 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.firstpart button {
+    padding: 9px 45px;
+    border: none;
+    background: #f47207;
+}
+.fourth_section button {
+    /*padding: 9px 44px;*/
+    /*font-size: 13px;*/
+    font-size: 13px;
+    font-weight: 500;
+      padding: 9px 45px;
+    border: none;
+    background: #f47207;
+}
+
+.second_part.container .well i {
+    /* border: 1px solid #f47207; */
+    /* padding: 10px 15px; */
+    border-radius: 50%;
+    font-size: 28px;
+    color: #f47207;
+}
+.sixth_section h3 {
+    font-weight: 700;
+}
+
+.sixth_section {
+    text-align: center;
+    margin-top: 7%;
+}
+.second_part.container .well {
+    padding: 34px;
+    height: 237px;
+    border: none;
+    box-shadow: 0 2px 11px rgba(0,0,0,0.20);
+    background: #fff;
+}
+
+.second_part.container h3 {
+    font-weight: 900;
+    /*margin-bottom: 3%;*/
+}
+
+.second_part.container {
+    margin-top: 12%;
+}
+.fifth_section img {
+    height: 213px;
+    box-shadow: 0 2px 9px rgba(0,0,0,0.18);
+}
+
+.fifth_section img:hover {
+    transform: scale(1.07) !important;
+    transition: all .5s ease;
+}
+
+.fifth_section img {
+    height: 213px;
+    margin-bottom: 11%;
+    cursor: pointer;
+    box-shadow: 0 2px 9px rgba(0,0,0,0.18);
+}
+
+
+.fifth_section h3 {
+    font-weight: 900;
+    margin-bottom: 5px;
+}
+
+.fifth_section {
+    background: #f0f0f0;
+    margin-top: 12%;
+    padding: 34px 20px;
+    text-align: center;
+}
+.sixth_section h4 {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.sixth_section p {
+    font-size: 13px;
+}
+
+.sixth_section .col-md-4:nth-of-type(3) {
+    border-right: none;
+}
+
+.sixth_section .col-md-4 {
+    border-right: 1px solid #ddd;
+    padding: 25px 40px;
+}
+
+.sixth_section {
+    text-align: center;
+    margin-top: 8%;
+}
+footer p {
+    font-size: 13px;
+    font-weight: 200;
+}
+
+footer a {
+    color: #f47207 !important;
+    text-transform: uppercase;
+}
+
+footer textarea {
+    background: transparent !important;
+    height: 100px !important;
+    resize: none;
+    margin-bottom: 4%;
+    color: #fff !important;
+}
+
+footer input {
+    background: transparent !important;
+    color: #fff !important;
+    margin-bottom: 17px;
+    box-shadow: none !important;
+}
+
+footer h4 {
+    font-size: 17px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+footer {
+    background: linear-gradient(90deg , #000000bd , #000000bd),url(../img/2-3.jpg);
+    min-height: 408px !important;
+    background-attachment: fixed;
+    width: 100%;
+    padding-top: 80px;
+    background-position: left;
+    background-size: cover;
+    margin-top: 10%;
+    color: #fff;
+    /* background-position-y: -67px; */
+}

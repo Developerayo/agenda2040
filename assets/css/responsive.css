@@ -1,0 +1,199 @@
+@media( max-width : 585px ) {
+.thirdsection {
+    background: linear-gradient(90deg , #000000bf ,#000000bf) , url(../img/Unknown-5.jpeg);
+    min-height: 467px;
+    width: 100%;
+    margin-top: 12%;
+    background-position: left;
+    text-align: center;
+    color: #fff;
+    padding: 83px 20px;
+    background-attachment: fixed;
+}
+.brents {
+    background: linear-gradient(90deg , #000000bd , #000000bd),url(../img/gallery-4.jpg);
+    height: 591px;
+    background-attachment: fixed;
+    width: 100%;
+    background-position: left;
+    background-size: cover;
+     background-position-y: none; 
+}
+.welcometool button:nth-of-type(1) {
+    background: transparent;
+    border: 1px solid #f47207 !important;
+    margin-left: 22px;
+        margin-bottom: 1px;
+}
+.welcometool h1 {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 36px;
+    margin-bottom: 10px;
+    margin-top: 35%;
+}
+.firstpart button {
+    padding: 9px 45px;
+    border: none;
+    background: #f47207;
+    margin-bottom: 11%;
+}
+.sixth_section .col-md-4 {
+    border-bottom: 1px solid #ddd;
+    padding: 25px 40px;
+}
+.sixth_section .col-md-4:nth-of-type(3) {
+    border-bottom: 1px solid none;
+    padding: 25px 40px;
+}
+footer {
+    background: linear-gradient(90deg , #000000bd , #000000bd),url(../img/2-3.jpg);
+    height: 100% !important;
+    background-attachment: fixed;
+    width: 100%;
+    padding-top: 80px;
+    background-position: left;
+    background-size: cover;
+    margin-top: 10%;
+    color: #fff;
+    /* background-position-y: -67px; */
+}
+p {
+    font-size: 12px !important;
+}
+}
+@media( max-width : 989px ) {
+	
+	.thirdsection {
+    background: linear-gradient(90deg , #000000bf ,#000000bf) , url(../img/Unknown-5.jpeg);
+    min-height: 467px;
+    width: 100%;
+    margin-top: 12%;
+    background-position: left;
+    text-align: center;
+    color: #fff;
+    padding: 83px 20px;
+    background-attachment: fixed;
+}
+.brents {
+    background: linear-gradient(90deg , #000000bd , #000000bd),url(../img/gallery-4.jpg);
+    height: 591px;
+    background-attachment: fixed;
+    width: 100%;
+    background-position: left;
+    background-size: cover;
+     background-position-y: none; 
+}
+.welcometool button:nth-of-type(1) {
+    background: transparent;
+    border: 1px solid #f47207 !important;
+    margin-left: 22px;
+        margin-bottom: 1px;
+}
+.welcometool h1 {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 36px;
+    margin-bottom: 10px;
+    margin-top: 35%;
+}
+.firstpart button {
+    padding: 9px 45px;
+    border: none;
+    background: #f47207;
+    margin-bottom: 11%;
+}
+.sixth_section .col-md-4 {
+    border-bottom: 1px solid #ddd;
+    padding: 25px 40px;
+}
+.sixth_section .col-md-4:nth-of-type(3) {
+    border-bottom: 1px solid none;
+    padding: 25px 40px;
+}
+footer {
+    background: linear-gradient(90deg , #000000bd , #000000bd),url(../img/2-3.jpg);
+    height: 100% !important;
+    background-attachment: fixed;
+    width: 100%;
+    padding-top: 80px;
+    background-position: left;
+    background-size: cover;
+    margin-top: 10%;
+    color: #fff;
+    /* background-position-y: -67px; */
+}
+p {
+    font-size: 12px !important;
+}
+}
+@media( max-width : 220px ){
+	.thirdsection {
+    background: linear-gradient(90deg , #000000bf ,#000000bf) , url(../img/Unknown-5.jpeg);
+    min-height: 467px;
+    width: 100%;
+    margin-top: 12%;
+    background-position: left;
+    text-align: center;
+    color: #fff;
+    padding: 83px 20px;
+    background-attachment: fixed;
+}
+.brents {
+    background: linear-gradient(90deg , #000000bd , #000000bd),url(../img/gallery-4.jpg);
+    height: 591px;
+    background-attachment: fixed;
+    width: 100%;
+    background-position: left;
+    background-size: cover;
+     background-position-y: none; 
+}
+.welcometool button:nth-of-type(1) {
+    background: transparent;
+    border: 1px solid #f47207 !important;
+    margin-left: 22px;
+        margin-bottom: 1px;
+}
+.welcometool h1 {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 36px;
+    margin-bottom: 10px;
+    margin-top: 35%;
+}
+.firstpart button {
+    padding: 9px 45px;
+    border: none;
+    background: #f47207;
+    margin-bottom: 11%;
+}
+.sixth_section .col-md-4 {
+    border-bottom: 1px solid #ddd;
+    padding: 25px 40px;
+}
+.sixth_section .col-md-4:nth-of-type(3) {
+    border-bottom: 1px solid none;
+    padding: 25px 40px;
+}
+footer {
+    background: linear-gradient(90deg , #000000bd , #000000bd),url(../img/2-3.jpg);
+    height: 100% !important;
+    background-attachment: fixed;
+    width: 100%;
+    padding-top: 80px;
+    background-position: left;
+    background-size: cover;
+    margin-top: 10%;
+    color: #fff;
+    /* background-position-y: -67px; */
+}
+p {
+    font-size: 12px !important;
+}
+}
+
+
+/*@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}*/
