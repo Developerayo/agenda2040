@@ -1,4 +1,4 @@
-# Rights-Of-Passage
+# Rites-Of-Passage
 The next twenty years will be very critical for the nation and the African
 continent on every front of development. We are confronted by a fast
 paced, out of control environment of business disruption driven by
